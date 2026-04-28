@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GraphViz-front-eng/static/css/main.e7a42480.css",
+    "main.js": "/GraphViz-front-eng/static/js/main.529a2b73.js",
+    "static/media/renamed_log.csv": "/GraphViz-front-eng/static/media/renamed_log.e09e563dda074302ca3e.csv",
+    "static/media/renamed_log_vertices.csv": "/GraphViz-front-eng/static/media/renamed_log_vertices.36976e1951927b8f18f0.csv",
+    "index.html": "/GraphViz-front-eng/index.html",
+    "main.e7a42480.css.map": "/GraphViz-front-eng/static/css/main.e7a42480.css.map",
+    "main.529a2b73.js.map": "/GraphViz-front-eng/static/js/main.529a2b73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7a42480.css",
+    "static/js/main.529a2b73.js"
+  ]
+}
